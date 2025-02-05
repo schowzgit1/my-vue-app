@@ -1,0 +1,14 @@
+{
+  "studentInfo": {
+    "naam": "Test Student",
+    "studentNummer": "12345",
+    "datum": "2024-02-05",
+    "opleiding": "Software Development"
+  },
+  "projectInfo": {
+    "naam": "Framework Test Project",
+    "framework": "Vue.js",
+    "versie": "3.0",
+    "status": "Actief"
+  }
+} 
